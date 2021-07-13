@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a tech enthusiast, who is learning software development, while working as IT/Customer Service. 
+I'm a tech enthusiast, who is learning software development, while working IT/Customer Service. 
 
 - 🔭 I study on freecodecamp, udemy, hackthebox, tryhackme, and portswigger academy.
 - 📚 I’m currently learning the #MERN stack
