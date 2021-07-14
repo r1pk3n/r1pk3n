@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a tech enthusiast, learning software development, while working IT/Customer Service. 
+I currently work IT/Customer Service, and love all things techn!
 
 - 🔭 I study on Freecodecamp, The Odin Project, Udemy, Hackthebox, Tryhackme, and Portswigger Academy.
 - 📚 I’m currently learning full stack development through various stacks.
